@@ -1,6 +1,5 @@
-# Messenger Platform Sample
+# CareBot
 
-This is a sample project showcasing the Messenger Platform. You can go through the [walk-through](https://developers.facebook.com/docs/messenger-platform/quickstart) to understand this code in more detail. The [Complete Guide](https://developers.facebook.com/docs/messenger-platform/implementation) goes deeper into the features available.
+A friendly Facebook messenger bot to help students students quickly find the right mental health specialist near them.
 
-Visit the [dev site](https://developers.facebook.com/docs/messenger-platform/) to find out more details about the Messenger Platform.
-
+Built by Eunice Lee and Matthew Zhang.
